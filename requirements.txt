@@ -1,0 +1,2 @@
+-e git+https://github.com/pf-robotics/kachaka-api.git#egg=kachaka_api
+lupa==2.0
